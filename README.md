@@ -96,3 +96,4 @@ For issues or questions, please open a GitHub issue or contact support.
 ## License
 
 [Your License Here]
+
