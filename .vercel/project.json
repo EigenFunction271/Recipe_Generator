@@ -1,0 +1,5 @@
+{
+    "buildCommand": "pip install -r requirements.txt",
+    "framework": "streamlit",
+    "devCommand": "streamlit run main.py"
+}
